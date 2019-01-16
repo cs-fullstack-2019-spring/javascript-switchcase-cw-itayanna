@@ -1,3 +1,13 @@
+
+
+//this function ask the user to enter a number to print.
+// then it prints 1 if you enter 1
+// 2 if you enter 2
+// 3 if you enter 3
+// 4 if you enter 4
+// 5 if you enter 5.
+
+
 main();
 function main(userInput) {
     var input= prompt("enter an number");
